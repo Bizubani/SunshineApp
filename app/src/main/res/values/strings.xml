@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">My Little Sunshine</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_refresh" translatable="false">Refresh</string>
+    <string name="title_activity_details">Details</string>
+    <string name="title_share">Share</string>
+
+    <string name="show_map">Show on map</string>
+
+    <string name="title_activity_setting">Preferences</string>
+
+    <string name ="pref_unit_select_title" translatable="false">Temperature unit </string>
+    <string name ="pref_unit_key" translatable="false">Units</string>
+    <string name ="pref_unit_label_metric">Metric</string>
+    <string name ="pref_unit_label_imperial">Imperial</string>
+    <string name = "pref_unit_metric">metric</string>
+    <string name = "pref_unit_imperial">imperial</string>
+
+    <string name ="pref_location_title" translatable="false">Location</string>
+    <string name ="pref_location_key" translatable="false">Location</string>
+    <string name ="pref_location_default" translatable="false">Freeport</string>
+
+
+
+</resources>
